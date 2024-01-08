@@ -1,1 +1,3 @@
-# credit-scoring
+# Credit Scoring
+
+## How-to
