@@ -1,7 +1,3 @@
-Certainly! A README file is crucial for providing information and context to users and collaborators about your credit scoring model repository. Here's a template you can use for your README:
-
----
-
 # Credit Scoring Model Repository
 
 ## Overview
@@ -75,7 +71,3 @@ We welcome contributions from the community! If you'd like to contribute to the 
 ## License
 
 This credit scoring model is distributed under the [mention the license type, e.g., MIT License]. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to customize the template based on the specifics of your credit scoring model and repository structure.
